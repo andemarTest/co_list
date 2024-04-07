@@ -8,6 +8,8 @@ http://181.78.6.106:45000/play/a00u
 http://181.78.6.106:45000/play/a00x
 #EXTINF:-1,CANAL TRO
 http://181.78.6.106:45000/play/b096
+#EXTINF:-1,Canal Institucional
+http://181.78.73.221:8000/play/a12y
 #EXTINF:-1,AMC HD
 http://181.78.6.106:45000/play/a022
 #EXTINF:-1,AXN
@@ -164,7 +166,6 @@ http://181.78.6.106:45000/play/a00r
 http://181.78.6.106:45000/play/a01x
 #EXTINF:-1,city tv _sahagun
 http://181.78.6.106:45000/play/a02v
-
 #EXTINF:-1,AMC HD
 http://181.78.73.221:8000/play/a14o/index.m3u8
 #EXTINF:-1,AXN
@@ -179,8 +180,6 @@ http://181.78.73.221:8000/play/a10p/index.m3u8
 http://181.78.73.221:8000/play/a157/index.m3u8
 #EXTINF:-1,Canal Estrellas
 http://181.78.73.221:8000/play/a0zi/index.m3u8
-#EXTINF:-1,Canal Institucional
-http://181.78.73.221:8000/play/a12y/index.m3u8
 #EXTINF:-1,Canal Uno
 http://181.78.73.221:8000/play/a12v/index.m3u8
 #EXTINF:-1,Capital
