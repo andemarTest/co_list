@@ -4,56 +4,56 @@
 http://181.78.6.106:45000/play/a00b
 #EXTINF:-1,RCN HD
 http://181.78.6.106:45000/play/a00u
+#EXTINF:-1,Canal 1 HD
+http://181.78.6.106:45000/play/a00x
+#EXTINF:-1,Senal COLOMBIA HD
+http://181.78.6.106:45000/play/b079
+#EXTINF:-1,Telepacifico
+http://181.78.6.106:45000/play/b0101
+#EXTINF:-1,Teleantioquia
+http://181.78.73.221:8000/play/a0wp
 #EXTINF:-1,City TV
 http://181.78.6.106:45000/play/a02v
 #EXTINF:-1,Capital
 http://181.78.73.221:8000/play/a136
-#EXTINF:-1,Canal 1 HD
-http://181.78.6.106:45000/play/a00x
-#EXTINF:-1,CANAL TRO
+#EXTINF:-1,Canal TRO
 http://181.78.6.106:45000/play/b096
-#EXTINF:-1,SENAL COLOMBIA HD
-http://181.78.6.106:45000/play/b079
-#EXTINF:-1,Teleantioquia
-http://181.78.73.221:8000/play/a0wp
-#EXTINF:-1,TELECAFE
+#EXTINF:-1,Telecafe
 http://181.78.6.106:45000/play/b0104
-#EXTINF:-1,TELECARIBE
+#EXTINF:-1,Telecaribe
 http://181.78.6.106:45000/play/b077
-#EXTINF:-1,TELEPACIFICO
-http://181.78.6.106:45000/play/b0101
 #EXTINF:-1,## PELICULAS ##
 http://0.0.0.0
 #EXTINF:-1,AMC HD
 http://181.78.6.106:45000/play/a022
-#EXTINF:-1,AXN
-http://181.78.6.106:45000/play/a00k
 #EXTINF:-1,Cinecanal HD
 http://181.78.6.106:45000/play/a011
 #EXTINF:-1,DHE HD
 http://181.78.73.221:8000/play/a15b
+#EXTINF:-1,Paramount HD
+http://181.78.73.221:8000/play/a14r
+#EXTINF:-1,Space HD
+http://181.78.6.106:45000/play/a01e
+#EXTINF:-1,Star Channel HD
+http://181.78.6.106:45000/play/a00a
+#EXTINF:-1,TNT HD
+http://181.78.6.106:45000/play/a019
+#EXTINF:-1,Studio Universal HD
+http://181.78.73.221:8000/play/a14s
+#EXTINF:-1,Universal Channel HD
+http://181.78.73.221:8000/play/a13y
+#EXTINF:-1,AXN
+http://181.78.6.106:45000/play/a00k
 #EXTINF:-1,FX
 http://181.78.6.106:45000/play/b076
-#EXTINF:-1,GOLDEN
+#EXTINF:-1,Golden
 http://181.78.6.106:45000/play/b0110
 #EXTINF:-1,HBO
 http://181.78.71.5:4890/play/a05t
 #EXTINF:-1,Lifetime
 http://181.78.6.106:45000/play/a00f
-#EXTINF:-1,Paramount HD
-http://181.78.73.221:8000/play/a14r
-#EXTINF:-1,Space HD
-http://181.78.6.106:45000/play/a01e
-#EXTINF:-1,STAR CHANNEL HD
-http://181.78.6.106:45000/play/a00a
-#EXTINF:-1,TNT HD
-http://181.78.6.106:45000/play/a019
 #EXTINF:-1,Sony
 http://181.78.73.221:8000/play/a0wl
-#EXTINF:-1,Studio Universal HD
-http://181.78.73.221:8000/play/a14s
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://181.78.73.221:8000/play/a13y
 #EXTINF:-1,Warner
 http://181.78.73.221:8000/play/a0yw
 #EXTINF:-1,## DOCUMENTALES ##
@@ -64,31 +64,29 @@ http://181.78.6.106:45000/play/a015
 http://181.78.73.221:8000/play/a15c
 #EXTINF:-1,Discovery H&H HD
 http://181.78.73.221:8000/play/a13v
-#EXTINF:-1,Discovery ID
-http://181.78.6.106:45000/play/a007
 #EXTINF:-1,Discovery Theater HD
 http://181.78.73.221:8000/play/a13w
 #EXTINF:-1,Discovery World HD
 http://181.78.73.221:8000/play/a14m
-#EXTINF:-1,Discovery Turbo
-http://181.78.6.106:45000/play/a004
-#EXTINF:-1,History Channel
-http://181.78.73.221:8000/play/a109
 #EXTINF:-1,History Channel 2 HD
 http://181.78.73.221:8000/play/a15e
 #EXTINF:-1,El Gourmet HD
 http://181.78.6.106:45000/play/a00n
 #EXTINF:-1,Nat Geo HD
 http://181.78.6.106:45000/play/a010
+#EXTINF:-1,Discovery ID
+http://181.78.6.106:45000/play/a007
+#EXTINF:-1,Discovery Turbo
+http://181.78.6.106:45000/play/a004
+#EXTINF:-1,History Channel
+http://181.78.73.221:8000/play/a109
 #EXTINF:-1,TLC
 http://181.78.6.106:45000/play/a005
 #EXTINF:-1,## DEPORTES ##
 http://2.2.2.2
 #EXTINF:-1,Win Sports+ HD
 http://181.78.6.106:45000/play/a014
-#EXTINF:-1,TyC_tierralta
-http://181.78.6.106:45000/play/a00i
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,ESPN 1 HD
 http://181.78.6.106:45000/play/a00y
 #EXTINF:-1,ESPN 2 HD
 http://181.78.6.106:45000/play/a01c
@@ -96,6 +94,8 @@ http://181.78.6.106:45000/play/a01c
 http://181.78.6.106:45000/play/a01a
 #EXTINF:-1,ESPN 5 HD
 http://181.78.6.106:45000/play/b074
+#EXTINF:-1,TyC
+http://181.78.6.106:45000/play/a00i
 #EXTINF:-1,## NOVELAS ##
 http://3.3.3.3
 #EXTINF:-1,Pasiones HD
