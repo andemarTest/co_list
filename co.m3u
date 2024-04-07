@@ -38,6 +38,8 @@ http://181.78.6.106:45000/play/a01e
 http://181.78.6.106:45000/play/a00a
 #EXTINF:-1,TNT HD
 http://181.78.6.106:45000/play/a019
+#EXTINF:-1,## DOCUMENTALES ##
+http://0.0.0.0
 #EXTINF:-1,Animal Planet HD
 http://181.78.6.106:45000/play/a015
 #EXTINF:-1,Discovery Channel
@@ -54,6 +56,8 @@ http://181.78.6.106:45000/play/a00n
 http://181.78.6.106:45000/play/a010
 #EXTINF:-1,TLC
 http://181.78.6.106:45000/play/a005
+#EXTINF:-1,## DEPORTES ##
+http://0.0.0.0
 #EXTINF:-1,Win Sports+ HD
 http://181.78.6.106:45000/play/a014
 #EXTINF:-1,TyC_tierralta
