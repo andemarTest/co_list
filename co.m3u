@@ -4,7 +4,7 @@
 http://181.78.6.106:45000/play/a00b
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/RCNTELEVISION1998.svg" group-title="Local",RCN HD
 http://181.78.6.106:45000/play/a00u
-#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CZtUb4D.png" group-title="Local"Canal 1 HD
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CZtUb4D.png" group-title="Local",Canal 1 HD
 http://181.78.6.106:45000/play/a00x
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Senal Colombia" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="Local",Senal Colombia HD
 http://181.78.6.106:45000/play/b079
