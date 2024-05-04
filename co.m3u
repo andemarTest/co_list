@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="CanalCaracol.co" tvg-name="Canal Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="Local",Caracol HD
 http://181.78.6.106:45000/play/a00b
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/RCNTELEVISION1998.svg" group-title="Local",RCN HD
-http://181.78.6.106:45000/play/a00u
+http://31.42.185.216:8000/live/boxsupertech/exchangeEFMPKS2930/153615.ts
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1 HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg" group-title="Local",Canal 1 HD
 http://181.78.6.106:45000/play/a00x
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Senal Colombia" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="Local",Senal Colombia HD
