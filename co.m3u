@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CanalCaracol.co" tvg-name="Canal Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="General",Caracol HD
+#EXTINF:-1 tvg-id="CanalCaracol.co" tvg-name="Canal Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="Local",Caracol HD
 http://181.78.6.106:45000/play/a00b
-#EXTINF:-1,RCN HD
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Local",RCN HD
 http://181.78.6.106:45000/play/a00u
-#EXTINF:-1,Canal 1 HD
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CZtUb4D.png" group-title="Local"Canal 1 HD
 http://181.78.6.106:45000/play/a00x
-#EXTINF:-1,Senal Colombia HD
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="Local",Senal Colombia HD
 http://181.78.6.106:45000/play/b079
-#EXTINF:-1,Canal 1
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CZtUb4D.png" group-title="Local",Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1,Telepacifico
 http://181.78.6.106:45000/play/b0101
