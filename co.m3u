@@ -4,13 +4,13 @@
 http://181.78.6.106:45000/play/a00b
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/RCNTELEVISION1998.svg" group-title="Local",RCN HD
 http://181.78.6.106:45000/play/a00u
-#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1 HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CZtUb4D.png" group-title="Local",Canal 1 HD
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1 HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg" group-title="Local",Canal 1 HD
 http://181.78.6.106:45000/play/a00x
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Senal Colombia" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="Local",Senal Colombia HD
 http://181.78.6.106:45000/play/b079
-#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CZtUb4D.png" group-title="Local",Canal 1
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg" group-title="Local",Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="Local",Telepacifico
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2019/06/TP_LOGO_RGB_2019-vertical-COLOR.png" group-title="Local",Telepacifico
 http://181.78.6.106:45000/play/b0101
 #EXTINF:-1,Teleantioquia
 http://181.78.73.221:8000/play/a0wp
