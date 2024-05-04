@@ -4,10 +4,16 @@
 http://181.78.6.106:45000/play/a00b
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/RCNTELEVISION1998.svg" group-title="Local",RCN HD
 http://31.42.185.216:8000/live/boxsupertech/exchangeEFMPKS2930/153615.ts
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/RCNTELEVISION1998.svg" group-title="Local",RCN HD 2
+http://31.42.185.216:8000/live/boxsupertech/exchangeEFMPKS2930/137655.ts
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN Internacional" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/RCNTELEVISION1998.svg" group-title="Local",RCN Internacional HD
+http://31.42.185.216:8000/live/boxsupertech/exchangeEFMPKS2930/131280.ts
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1 HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg" group-title="Local",Canal 1 HD
 http://181.78.6.106:45000/play/a00x
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Senal Colombia" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="Local",Senal Colombia HD
 http://181.78.6.106:45000/play/b079
+#EXTINF:-1 tvg-id="citytv.eltiempo.com" tvg-name="City TV HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg" group-title="Local",City TV HD
+http://31.42.185.216:8000/live/boxsupertech/exchangeEFMPKS2930/140410.ts
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg" group-title="Local",Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacifico" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2019/06/TP_LOGO_RGB_2019-vertical-COLOR.png" group-title="Local",Telepacifico
@@ -64,12 +70,14 @@ http://1.1.1.1
 http://181.78.6.106:45000/play/a015
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Discovery HD
 http://181.78.73.221:8000/play/a15c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Discovery H&H HD
+#EXTINF:-1 tvg-id="Discovery.com" tvg-name="Discovery H&H HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Documentales",Discovery H&H HD
 http://181.78.73.221:8000/play/a13v
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Discovery Theater HD
 http://181.78.73.221:8000/play/a13w
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Discovery World HD
+#EXTINF:-1 tvg-id="Discovery.com" tvg-name="Discovery World HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Local",Discovery World HD
 http://181.78.73.221:8000/play/a14m
+#EXTINF:-1 tvg-id="Discovery.com" tvg-name="Discovery Science HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Local",Discovery Science HD
+http://31.42.185.216:8000/live/boxsupertech/exchangeEFMPKS2930/2812.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",History Channel 2 HD
 http://181.78.73.221:8000/play/a15e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",El Gourmet HD
