@@ -18,11 +18,11 @@ http://181.78.73.221:8000/play/a0wp
 http://181.78.6.106:45000/play/a02v
 #EXTINF:-1 tvg-id="canalcapital.gov.co" tvg-name="Canal Capital" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/2020_Canal_Capital_logo.svg" group-title="Local",Canal Capital
 http://181.78.73.221:8000/play/a136
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Canal TRO
+#EXTINF:-1 tvg-id="canaltro.com" tvg-name="Canal TRO" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://seeklogo.com/images/C/canal-tro-2010-2012-logo-E13A1E2A93-seeklogo.com.png" group-title="Local",Canal TRO
 http://181.78.6.106:45000/play/b096
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Telecafe
+#EXTINF:-1 tvg-id="telecafe.gov.co" tvg-name="Teleface" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Telecaf%C3%A9_logo.svg" group-title="Local",Telecafe
 http://181.78.6.106:45000/play/b0104
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Telecaribe
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="Telecaribe" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://seeklogo.com/images/T/telecaribe-colombia-2017-present-logo-F376432F4C-seeklogo.com.png" group-title="Local",Telecaribe
 http://181.78.6.106:45000/play/b077
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",## PELICULAS ##
 http://0.0.0.0
