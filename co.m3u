@@ -14,127 +14,127 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 http://181.78.6.106:45000/play/b0101
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Teleantioquia_logo.svg" group-title="Local",Teleantioquia
 http://181.78.73.221:8000/play/a0wp
-#EXTINF:-1,City TV
+#EXTINF:-1 tvg-id="citytv.eltiempo.com" tvg-name="City TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg" group-title="Local",City TV
 http://181.78.6.106:45000/play/a02v
-#EXTINF:-1,Capital
+#EXTINF:-1 tvg-id="canalcapital.gov.co" tvg-name="Canal Capital" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/2020_Canal_Capital_logo.svg" group-title="Local",Canal Capital
 http://181.78.73.221:8000/play/a136
-#EXTINF:-1,Canal TRO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Canal TRO
 http://181.78.6.106:45000/play/b096
-#EXTINF:-1,Telecafe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Telecafe
 http://181.78.6.106:45000/play/b0104
-#EXTINF:-1,Telecaribe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Telecaribe
 http://181.78.6.106:45000/play/b077
-#EXTINF:-1,## PELICULAS ##
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",## PELICULAS ##
 http://0.0.0.0
-#EXTINF:-1,AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",AMC HD
 http://181.78.6.106:45000/play/a022
-#EXTINF:-1,Cinecanal HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Cinecanal HD
 http://181.78.6.106:45000/play/a011
-#EXTINF:-1,DHE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",DHE HD
 http://181.78.73.221:8000/play/a15b
-#EXTINF:-1,Paramount HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Paramount HD
 http://181.78.73.221:8000/play/a14r
-#EXTINF:-1,Space HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Space HD
 http://181.78.6.106:45000/play/a01e
-#EXTINF:-1,Star Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Star Channel HD
 http://181.78.6.106:45000/play/a00a
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",TNT HD
 http://181.78.6.106:45000/play/a019
-#EXTINF:-1,Studio Universal HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Studio Universal HD
 http://181.78.73.221:8000/play/a14s
-#EXTINF:-1,Universal Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Universal Channel HD
 http://181.78.73.221:8000/play/a13y
-#EXTINF:-1,AXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",AXN
 http://181.78.6.106:45000/play/a00k
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",FX
 http://181.78.6.106:45000/play/b076
-#EXTINF:-1,Golden
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Golden
 http://181.78.6.106:45000/play/b0110
-#EXTINF:-1,HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",HBO
 http://181.78.71.5:4890/play/a05t
-#EXTINF:-1,Lifetime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Lifetime
 http://181.78.6.106:45000/play/a00f
-#EXTINF:-1,Sony
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Sony
 http://181.78.73.221:8000/play/a0wl
-#EXTINF:-1,Warner
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Warner
 http://181.78.73.221:8000/play/a0yw
-#EXTINF:-1,## DOCUMENTALES ##
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",## DOCUMENTALES ##
 http://1.1.1.1
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Animal Planet HD
 http://181.78.6.106:45000/play/a015
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Discovery HD
 http://181.78.73.221:8000/play/a15c
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Discovery H&H HD
 http://181.78.73.221:8000/play/a13v
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Discovery Theater HD
 http://181.78.73.221:8000/play/a13w
-#EXTINF:-1,Discovery World HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Discovery World HD
 http://181.78.73.221:8000/play/a14m
-#EXTINF:-1,History Channel 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",History Channel 2 HD
 http://181.78.73.221:8000/play/a15e
-#EXTINF:-1,El Gourmet HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",El Gourmet HD
 http://181.78.6.106:45000/play/a00n
-#EXTINF:-1,Nat Geo HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Nat Geo HD
 http://181.78.6.106:45000/play/a010
-#EXTINF:-1,Discovery ID
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Discovery ID
 http://181.78.6.106:45000/play/a007
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Discovery Turbo
 http://181.78.6.106:45000/play/a004
-#EXTINF:-1,History Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",History Channel
 http://181.78.73.221:8000/play/a109
-#EXTINF:-1,TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",TLC
 http://181.78.6.106:45000/play/a005
-#EXTINF:-1,## DEPORTES ##
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",## DEPORTES ##
 http://2.2.2.2
-#EXTINF:-1,Win Sports+ HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Win Sports+ HD
 http://181.78.6.106:45000/play/a014
-#EXTINF:-1,ESPN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",ESPN 1 HD
 http://181.78.6.106:45000/play/a00y
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",ESPN 2 HD
 http://181.78.6.106:45000/play/a01c
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",ESPN 3 HD
 http://181.78.6.106:45000/play/a01a
-#EXTINF:-1,ESPN 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",ESPN 5 HD
 http://181.78.6.106:45000/play/b074
-#EXTINF:-1,TyC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",TyC
 http://181.78.6.106:45000/play/a00i
-#EXTINF:-1,## NOVELAS ##
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",## NOVELAS ##
 http://3.3.3.3
-#EXTINF:-1,Pasiones HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Pasiones HD
 http://181.78.6.106:45000/play/a00j
-#EXTINF:-1,TNT Novelas HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",TNT Novelas HD
 http://181.78.73.221:8000/play/a164
-#EXTINF:-1,RCN Novelas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",RCN Novelas
 http://181.78.71.5:4890/play/a03t
-#EXTINF:-1,RCN Xtra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1,## VARIEDAD ##
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",## VARIEDAD ##
 http://4.4.4.4
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",TNT Series HD
 http://181.78.73.221:8000/play/a144
-#EXTINF:-1,Sun Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Sun Channel HD
 http://181.78.73.221:8000/play/a15z
-#EXTINF:-1,DW Español HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",DW Español HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,AE Mundo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",AE Mundo
 http://181.78.71.5:4890/play/a03n
-#EXTINF:-1,E Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",E Entertainment
 http://181.78.73.221:8000/play/a0yx
-#EXTINF:-1,USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",USA
 http://181.78.73.221:8000/play/a10r
-#EXTINF:-1,TCM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",TCM
 http://181.78.73.221:8000/play/a10h
-#EXTINF:-1,## INTERNACIONAL ##
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",## INTERNACIONAL ##
 http://5.5.5.5
-#EXTINF:-1,Canal 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Canal 13 HD
 http://181.78.73.221:8000/play/a157
-#EXTINF:-1,Las Estrellas HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Las Estrellas HD
 http://181.78.73.221:8000/play/a15a
-#EXTINF:-1,## NEWS ##
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",## NEWS ##
 http://5.5.5.5
-#EXTINF:-1,Red+ Noticias HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",Red+ Noticias HD
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1,CNN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",CNN
 http://181.78.71.5:4890/play/a064
-#EXTINF:-1,## TO CHECK ##
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Local",## TO CHECK ##
 http://99.99.99.99
